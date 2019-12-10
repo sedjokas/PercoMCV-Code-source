@@ -1,5 +1,5 @@
 #######################################################################################################################                                                                                  #
-#               PercoMCV code source, implemented by the www.abil.ac.cd composed by Elie Mayogha,                     #
+#               PercoMCV code source, implemented by the www.abil.ac.cd team composed by Elie Mayogha,                #
 #                       Selain Kasereka, Nathanael Kasoro, Ho Tuong Vinh and Joel Kinganga                            #
 #                                                                                                                     #
 #       We invite contributor to reuse our code source and cite our paper. We would like to be contacted when         #
