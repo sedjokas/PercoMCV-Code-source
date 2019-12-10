@@ -1,3 +1,11 @@
+#######################################################################################################################                                                                                  #
+#               PercoMCV code source, implemented by the www.abil.ac.cd composed by Elie Mayogha,                     #
+#        Selain Kasereka, Nathanael Kasoro, Emile-franc Doungmo Goufo, Ho Tuong Vinh and Joel Kinganga                #
+#                                                                                                                     #
+#       We onvite contributor to reuse our code source and cite our paper. We would like to be contacted when         #
+#       this code is used, this way will allow us to know the evolution of our proposed algorithm. Injoy              #
+#                                   Contact us: contact@abil.ac.cd                                                    #
+####################################################################################################################### 
 # -*- coding: utf-8 -*-
 
 from collections import defaultdict
@@ -133,6 +141,6 @@ FinalUnclass = list(t - set(cc))
 print("Final unclassified node(s)")
 print(FinalUnclass)
 
-
+####################################################################################################################### 
 
 
