@@ -1,16 +1,16 @@
 #######################################################################################################################                                                                                  #
 #               PercoMCV code source, implemented by the www.abil.ac.cd composed by Elie Mayogha,                     #
-#        Selain Kasereka, Nathanael Kasoro, Emile-franc Doungmo Goufo, Ho Tuong Vinh and Joel Kinganga                #
+#                       Selain Kasereka, Nathanael Kasoro, Ho Tuong Vinh and Joel Kinganga                            #
 #                                                                                                                     #
-#       We onvite contributor to reuse our code source and cite our paper. We would like to be contacted when         #
+#       We invite contributor to reuse our code source and cite our paper. We would like to be contacted when         #
 #       this code is used, this way will allow us to know the evolution of our proposed algorithm. Injoy              #
-#                                   Contact us: contact@abil.ac.cd                                                    #
+#                                   Contact us: contact@abil.ac.cd - University of Kinshasa                           #                        #
 ####################################################################################################################### 
+
 # -*- coding: utf-8 -*-
 
 from collections import defaultdict
 import networkx as nx
-
 
 # First step
 # computation of k-clique percolation algorithm
